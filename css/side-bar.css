@@ -1,0 +1,46 @@
+.side-bar-container
+{
+    height: 100%;
+    width: 10.5rem;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.side-bar
+{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+}
+
+.side-bar-container ul
+{
+    display: block;
+    padding: 0;
+}
+
+#home-choice
+{
+    border-bottom: 0.05rem solid;
+    border-color: lightgrey;
+    padding: 1rem 0 0.95rem 0.6rem;
+    font-weight: bold;
+    color: black;
+}
+
+.side-bar ul a
+{
+    text-decoration: none;
+}
+
+.side-bar ul li
+{
+    padding: 0.7rem 0 0.7rem 0.5em;
+    list-style: none;
+    color: gray;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 7.5rem;
+}
+

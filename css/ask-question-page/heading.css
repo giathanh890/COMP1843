@@ -1,0 +1,38 @@
+#ask-question-body
+{
+    overflow-y: hidden;
+}
+
+.ask-question-container 
+{
+    width: 82.3%;
+    height: 100%;
+}
+
+.ask-question-heading
+{
+    width: 100%;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ask-question-heading h2
+{
+    margin: 2.5rem;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.post-button
+{
+    width: 10rem;
+    height: 3rem;
+    background-color: darkorange;
+    border: none;
+    border-radius: 3rem;
+    font-size: 1.2rem;
+    color: white;
+    font-weight: bold;
+}

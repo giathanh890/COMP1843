@@ -1,0 +1,40 @@
+.page-content-container
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 0;
+}
+
+.page-content
+{
+    height: 100%;
+    width: 82.35%;
+}
+
+.content-container
+{
+    height: auto;
+    width: 100%;
+}
+
+.question-content-container
+{
+    height: auto;
+    width: 100%;
+    border-left: 0.02rem lightgray solid;
+}
+
+.content
+{
+    height: 9.5rem;
+    width: 100%;
+}
+
+.content a
+{
+    text-decoration: none;
+    color: black;
+}
